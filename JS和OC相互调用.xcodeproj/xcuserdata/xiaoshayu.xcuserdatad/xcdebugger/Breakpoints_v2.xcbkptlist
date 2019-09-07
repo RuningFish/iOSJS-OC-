@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JS&#x548c;OC&#x76f8;&#x4e92;&#x8c03;&#x7528;/ViewController.m"
+            timestampString = "589559396.785406"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "-wkWebView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JS&#x548c;OC&#x76f8;&#x4e92;&#x8c03;&#x7528;/ViewController.m"
+            timestampString = "589559396.785733"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "-buttonClick:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JS&#x548c;OC&#x76f8;&#x4e92;&#x8c03;&#x7528;/ViewController.m"
+            timestampString = "589559396.785902"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "-buttonClick:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JS&#x548c;OC&#x76f8;&#x4e92;&#x8c03;&#x7528;/ViewController.m"
+            timestampString = "589559396.786054"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "-buttonClick:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController buttonClick:]"
+                  moduleName = "JS&#x548c;OC&#x76f8;&#x4e92;&#x8c03;&#x7528;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/piyingke/Documents/JS%E5%92%8COC%E7%9B%B8%E4%BA%92%E8%B0%83%E7%94%A8/JS%E5%92%8COC%E7%9B%B8%E4%BA%92%E8%B0%83%E7%94%A8/ViewController.m"
+                  timestampString = "589549265.472517"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[ViewController buttonClick:]_block_invoke"
+                  moduleName = "JS&#x548c;OC&#x76f8;&#x4e92;&#x8c03;&#x7528;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/piyingke/Documents/JS%E5%92%8COC%E7%9B%B8%E4%BA%92%E8%B0%83%E7%94%A8/JS%E5%92%8COC%E7%9B%B8%E4%BA%92%E8%B0%83%E7%94%A8/ViewController.m"
+                  timestampString = "589549265.47572"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
